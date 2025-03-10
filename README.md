@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas Hoven 👋
+# Hi, I'm Nick 👋
 
 Welcome to my GitHub profile! I'm a software consultant passionate about building small, impactful applications that solve real business problems.
 
