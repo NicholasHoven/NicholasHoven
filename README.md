@@ -15,8 +15,8 @@ I specialize in developing tailored software solutions, focusing on efficiency a
 
 ## What I'm Working On
 
-* [**EzKeys**](https://github.com/NicholasHoven/EzKeys): EasyKeys is a simplistic application designed for easy access to encryption keys for popular softwares, such as Postman, Bruno, Insomnia and many more. It is the all in one place to store and access all of your needed keys.
-* [**QuickStates**](https://github.com/NicholasHoven/Quick-States): QuickStates is a companion application designed to streamline the process of viewing and importing state testing data within Bruno. It simplifies the retrieval of state-specific information, such as ZIP codes and FIPS codes, and facilitates the creation of Bruno testing scripts.
+* [**EzKeys**](https://github.com/NicholasHoven/EzKeys): A simplistic application designed for easy access to encryption keys for popular softwares, such as Postman, Bruno, Insomnia and many more. It is the all in one place to store and access all of your needed keys.
+* [**QuickStates**](https://github.com/NicholasHoven/Quick-States): A companion application designed to streamline the process of viewing and importing state testing data within Bruno. It simplifies the retrieval of state-specific information, such as ZIP codes and FIPS codes, and facilitates the creation of Bruno testing scripts.
 
 ## Connect with Me
 
