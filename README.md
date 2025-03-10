@@ -9,9 +9,9 @@ I specialize in developing tailored software solutions, focusing on efficiency a
 ## Technologies & Skills
 
 * **Languages:** Python, C++, Java
-* **API Development & Integration:** RESTful APIs, Web Services
-* **Problem Solving & Software Design**
-* **Consulting & Client Communication**
+* **API Test Automation:** Bruno, Postman, JavaScript, Selenium
+* **Front End Design** Python Tkinter, JavaScript
+* **Consulting & Client Communication** Jira, Excel, Microsoft Office
 
 ## What I'm Working On
 
