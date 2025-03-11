@@ -4,11 +4,12 @@ Welcome to my GitHub profile! I'm a software consultant passionate about buildin
 
 ## About Me
 
-I specialize in developing tailored software solutions, focusing on efficiency and user-friendliness. I enjoy working closely with clients to understand their specific needs and deliver solutions that streamline their operations.
+I am currently working as a Software Consultant for a Federal Government Agency. I specialize in Functional API Testing, Test Automation, Full-Stack App development, Front-End Developement, and Databases. I love creating useful apps to automate tasks, and create more accurate work for my teammates and clients. Some notable projects that I have and am working on include "Am I Doxxed?", A college project to manage your personal online footprint, including unwanted search results, personal data on websites, potential password leaks, and even catfishing accounts on Dating Apps. "EzKeys" A simplistic encryption key manager app aimed at making importing encryption keys for testing applications such as Postman or Bruno quicker, easier, and more secure. "Quickstates", A simplistic database application that includes all of the data you could ever need for testing location data at the touch of your fingertips, including Zip Codes, Fip Codes, Addresses, and much more!
 
 ## Technologies & Skills
 
-* **Languages:** Python, C++, Java
+* **Languages:** Python, C++, Java, Batch
+* **Operating Systems** Windows, Linux
 * **API Test Automation:** Bruno, Postman, JavaScript, Selenium
 * **Front End Design** Python Tkinter, JavaScript
 * **Consulting & Client Communication** Jira, Excel, Microsoft Office
@@ -22,6 +23,8 @@ I specialize in developing tailored software solutions, focusing on efficiency a
 ## Connect with Me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/hoven-45b78324a/)
+* [Email](hovennicholas@gmail.com)
+* [Phone Number](6368753433)
 
 ## Let's Build Something Together!
 
