@@ -17,6 +17,7 @@ I specialize in developing tailored software solutions, focusing on efficiency a
 
 * [**EzKeys**](https://github.com/NicholasHoven/EzKeys): A simplistic application designed for easy access to encryption keys for popular softwares, such as Postman, Bruno, Insomnia and many more. It is the all in one place to store and access all of your needed keys.
 * [**QuickStates**](https://github.com/NicholasHoven/Quick-States): A companion application designed to streamline the process of viewing and importing state testing data within Bruno. It simplifies the retrieval of state-specific information, such as ZIP codes and FIPS codes, and facilitates the creation of Bruno testing scripts.
+* [**Language Tree Generator**](https://github.com/Matthewduff52/Language-Tree-Generator): A full stack application aimed at simulating the evolution of spoken languages over time.
 
 ## Connect with Me
 
