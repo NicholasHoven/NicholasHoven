@@ -24,8 +24,8 @@ I am currently working as a Software Consultant for a Federal Government Agency.
 ## Connect with Me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/hoven-45b78324a/)
-* [Email](hovennicholas@gmail.com)
-* [Phone Number](6368753433)
+* Email - hovennicholas@gmail.com
+* Phone Number - 636-875-3433
 
 ## Let's Build Something Together!
 
