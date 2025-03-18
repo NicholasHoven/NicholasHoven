@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software consultant passionate about buildin
 
 ## About Me
 
-I am currently working as a Software Consultant for a Federal Government Agency. I specialize in Functional API Testing, Test Automation, Full-Stack App development, Front-End Developement, and Databases. I love creating useful apps to automate tasks, and create more accurate work for my teammates and clients. Some notable projects that I have and am working on include "Am I Doxxed?", A college project to manage your personal online footprint, including unwanted search results, personal data on websites, potential password leaks, and even catfishing accounts on Dating Apps. "EzKeys" A simplistic encryption key manager app aimed at making importing encryption keys for testing applications such as Postman or Bruno quicker, easier, and more secure. "Quickstates", A simplistic database application that includes all of the data you could ever need for testing location data at the touch of your fingertips, including Zip Codes, Fip Codes, Addresses, and much more!
+I am currently working as a Software Consultant for a Federal Government Agency. I specialize in Automation, Web Development, Game Development, Generative AI, Full-Stack App development, Front-End Developement, and Databases. I love creating useful apps to automate tasks, and create more accurate work for my teammates and clients. Some notable projects that I have and am working on include "Am I Doxxed?", A college project to manage your personal online footprint, including unwanted search results, personal data on websites, potential password leaks, and even catfishing accounts on Dating Apps. "EzKeys" A simplistic encryption key manager app aimed at making importing encryption keys for testing applications such as Postman or Bruno quicker, easier, and more secure. "Quickstates", A simplistic database application that includes all of the data you could ever need for testing location data at the touch of your fingertips, including Zip Codes, Fip Codes, Addresses, and much more!
 
 ## Technologies & Skills
 
@@ -12,6 +12,7 @@ I am currently working as a Software Consultant for a Federal Government Agency.
 * **Operating Systems** Windows, Linux
 * **API Test Automation:** Bruno, Postman, JavaScript, Selenium
 * **Front End Design** Python Tkinter, JavaScript
+* **Development Technologies** VScode, Eclipse, AI Aided Development
 * **Consulting & Client Communication** Jira, Excel, Microsoft Office
 
 ## What I'm Working On
