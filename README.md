@@ -12,7 +12,7 @@ I am currently working as a Software Consultant for a Federal Government Agency.
 * **Operating Systems** Windows, Linux
 * **API Test Automation:** Bruno, Postman, JavaScript, Selenium
 * **Front End Design** Python Tkinter, JavaScript
-* **Development Technologies** VScode, Eclipse, AI Aided Development
+* **Development Technologies** VScode, Eclipse, AI Assited Development
 * **Consulting & Client Communication** Jira, Excel, Microsoft Office
 
 ## What I'm Working On
