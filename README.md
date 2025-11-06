@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a software consultant passionate about buildin
 
 ## About Me
 
-I am currently working as a Software Consultant for a Federal Government Agency. I specialize in Automation, Web Development, GUIs, Generative AI, Full-Stack App development, Front-End Developement, and Databases. I love creating useful apps to automate tasks, and create more accurate work for my teammates and clients. Some notable projects that I have and am working on include "Am I Doxxed?", A college project to manage your personal online footprint, including unwanted search results, personal data on websites, potential password leaks, and even catfishing accounts on Dating Apps. "EzKeys" A simplistic encryption key manager app aimed at making importing encryption keys for testing applications such as Postman or Bruno quicker, easier, and more secure. "Office Blackjack!" a full stack video game for windows.
+I am currently working as a Software Consultant for a Federal Government Agency. I specialize in DevOps, Automation, GUIs, Generative AI, Full-Stack App development, Front-End Developement, and Databases. I love creating useful apps to automate tasks, and create more accurate work for my teammates and clients. Some notable projects that I have and am working on include "Am I Doxxed?", A college project to manage your personal online footprint, including unwanted search results, personal data on websites, potential password leaks, and even catfishing accounts on Dating Apps. "EzKeys" A simplistic encryption key manager app aimed at making importing encryption keys for testing applications such as Postman or Bruno quicker, easier, and more secure. "Office Blackjack!" a full stack video game for windows.
 ## Technologies & Skills
 
-* **Languages:** Python, C++, Java, Batch
+* **Languages:** Python, C++, Java, Batch, Terraform
 * **Operating Systems** Windows, Linux
 * **API Test Automation:** Bruno, Postman, JavaScript, Selenium
 * **Front End Design** Python Tkinter, JavaScript
